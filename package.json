@@ -1,0 +1,8 @@
+{
+  "name": "quilt-canary",
+  "version": "0.1.0",
+  "description": "FNV-1a 64-bit canary — polyformalism in 5 languages",
+  "scripts": {
+    "test": "python3 canary.py && npx tsx canary.ts"
+  }
+}
