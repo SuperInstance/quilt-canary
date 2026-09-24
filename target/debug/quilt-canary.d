@@ -1,0 +1,1 @@
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/quilt-canary/target/debug/quilt-canary: /run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/quilt-canary/target/package/quilt-canary-0.1.0/src/main.rs
